@@ -1,10 +1,9 @@
 # Unity Scene Bootstrap
 
-[![GitHub](https://img.shields.io/github/license/sbuplakankus/unity-scene-bootstrapper)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/sbuplakankus/unity-scene-bootstrapper)](https://github.com/sbuplakankus/unity-scene-bootstrapper/releases)
-[![Unity](https://img.shields.io/badge/unity-2020.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
-[![GitHub issues](https://img.shields.io/github/issues/sbuplakankus/unity-scene-bootstrapper)](https://github.com/sbuplakankus/unity-scene-bootstrapper/issues)
-[![GitHub stars](https://img.shields.io/github/stars/sbuplakankus/unity-scene-bootstrapper)](https://github.com/sbuplakankus/unity-scene-bootstrapper/stargazers)
+[![GitHub](https://img.shields.io/github/license/SBUplakankus/unity-scene-bootstrapper)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/SBUplakankus/unity-scene-bootstrapper)](https://github.com/SBUplakankus/unity-scene-bootstrapper/releases)
+[![GitHub issues](https://img.shields.io/github/issues/SBUplakankus/unity-scene-bootstrapper)](https://github.com/SBUplakankus/unity-scene-bootstrapper/issues)
+[![GitHub stars](https://img.shields.io/github/stars/SBUplakankus/unity-scene-bootstrapper?style=social)](https://github.com/SBUplakankus/unity-scene-bootstrapper/stargazers)
 
 A lightweight Unity Editor tool that automates creation of organized scene hierarchy structures with one click.
 
