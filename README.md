@@ -9,6 +9,17 @@ A lightweight Unity Editor tool that automates creation of organized scene hiera
 
 The tool is editor-only, adds no runtime dependencies, and creates only empty GameObjects.
 
+## Installation
+
+### Via Unity Package Manager (Git URL)
+
+1. Open Unity Editor
+2. Go to **Window → Package Manager**
+3. Click the **+** button in the top-left corner
+4. Select **Add package from git URL...**
+5. Enter: `https://github.com/SBUplakankus/unity-scene-bootstrapper.git`
+6. Click **Add**
+
 ---
 
 ## Features
