@@ -11,7 +11,7 @@ The tool is editor-only, adds no runtime dependencies, and creates only empty Ga
 
 ## Installation
 
-### Via Unity Package Manager (Git URL)
+### Via Unity Package Manager (From Git URL)
 
 1. Open Unity Editor
 2. Go to **Window → Package Manager**
@@ -19,6 +19,12 @@ The tool is editor-only, adds no runtime dependencies, and creates only empty Ga
 4. Select **Add package from git URL...**
 5. Enter: `https://github.com/SBUplakankus/unity-scene-bootstrapper.git`
 6. Click **Add**
+
+
+### Via GitHub Release (From File)
+1. Download the `SceneBootstrap.unitypackage` from the Release section
+2. In Unity: `Assets > Import Package > Custom Package`
+3. Select the package and import all files
 
 ---
 
@@ -85,25 +91,6 @@ The tool is editor-only, adds no runtime dependencies, and creates only empty Ga
 
 ---
 
-## Installation
-
-### Method 1: Unity Package (Recommended)
-1. Download the `SceneBootstrap.unitypackage`
-2. In Unity: `Assets > Import Package > Custom Package`
-3. Select the package and import all files
-
-### Method 2: Manual Installation
-Copy the `SceneBootstrap` folder into your Unity project's `Assets` directory:
-
-```
-Assets/
-└── SceneBootstrap/
-└── Editor/
-└── SceneBootstrapWindow.cs
-```
-
----
-
 ## Usage
 
 1. Open Unity
@@ -144,13 +131,6 @@ Edit the `GetChildNames()` method to change the default child objects for each g
 Adjust the `TargetTitleLength` constant to change the width of dashed titles.
 
 **Note:** User preferences are stored using `EditorPrefs` and are per-user, not per-project.
-
----
-
-## Requirements
-
-- **Unity 2020.3 LTS or newer**
-- No additional packages required
 
 ---
 
